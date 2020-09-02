@@ -9,8 +9,8 @@ Aluno adicione seu nome de usuario no github, seu nome completo e o link de sua 
 <TD>Link</TD>
 </TR> 
 <TR> 
-<TD> Iury Gomes de Oliveira </TD>
-<TD> @iurygdeoliveira </TD>
-<TD> <a href="https://github.com/iurygdeoliveira"> https://github.com/iurygdeoliveira</a></TD>
+<TD> Israel Monteiro </TD>
+<TD> @israelmbg </TD>
+<TD> <a href="https://github.com/israelmbg"> https://github.com/israelmbg</a></TD>
 <TR> 
 </TABLE>
